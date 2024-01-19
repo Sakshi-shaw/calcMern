@@ -1,0 +1,17 @@
+{
+    "name": "calc5G4",
+    "version":"0.1.1",
+    "main":"calc",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sakshi-shaw/calcMern"
+    },
+    "keywords": [
+        "calc",
+        "calcpsk","psk"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
